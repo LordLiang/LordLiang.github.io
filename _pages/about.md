@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen), under the supervision of <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a> at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>. Prior to this, I received my B.S. degree in Software Engineering from Tongji University. My research interests lie in computer graphics and 3D deep learning, with a primary focus on 3D content generation and reconstruction. I am also collaborating closely with <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Prof. Hongbo Fu</a> at City University of Hong Kong.
+I am currently a Ph.D. student in Creative Media at the City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and Prof. Miuling Lam. 
+Prior to this, I received my Master's degree in Computer Technology from Shanghai Jiao Tong University, under the guidance of <a href="https://dmcv.sjtu.edu.cn/people/">Prof. Lizhuang Ma</a>.
+My research interests lie in Computer Graphics and 3D Computer Vision, with a primary focus on sketch-based 3D modeling and character animation. 
+I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/people">Prof. Xiaoguang Han</a> at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen).
 
 <!-- ############## -->
 <!-- interests -->
@@ -16,9 +19,8 @@ I am currently a second-year Ph.D. student at the School of Science and Engineer
 
 Interests
 ------
-* Sketch-based 2D/3D Content Modeling
-* Multi-Modal 3D Content Generation and Reconstruction
-* Shape Representation & Geometric Processing & Character Animation
+* Sketch-based 3D Modeling
+* Character Animation
 
 <!-- ############## -->
 <!-- news -->
@@ -26,9 +28,7 @@ Interests
 
 News
 ------
-* [2023.06] One paper got accepted by MICCAI 2023.
-* [2023.06] One paper got accepted by TVCG 2023.
-* [2023.03] One paper got accepted by CVPR 2023.
+* [2024.07] One paper got accepted by SIGGRAPH Asia 2024.
 
 <!-- ############## -->
 <!-- publications -->
