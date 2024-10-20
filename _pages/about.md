@@ -146,7 +146,7 @@ Education Experience
 <p style="line-height:125%">
   <font size="4"><b>City University of Hong Kong</b><br></font> 
   <font size="2">Nov. 2020 -  <br></font> 
-  <font size="2">Ph.D. student in Creative Media at <a href="https://www.scm.cityu.edu.hk/">School of Creative Media</a><br></font>
+  <font size="2">Ph.D. student in Creative Media at <a href="https://hongbofu.people.ust.hk/">Hongbo's Group</a><br></font>
 </p>  
 </div>
 
