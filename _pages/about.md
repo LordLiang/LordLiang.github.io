@@ -37,10 +37,10 @@ News
 Publications
 ------
 <div>
-  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="400px">
+  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -68,10 +68,10 @@ Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="400px">
+  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -101,10 +101,10 @@ Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="400px">
+  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -167,4 +167,4 @@ Publications
 <!-- ############## -->
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script> -->
