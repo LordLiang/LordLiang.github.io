@@ -88,7 +88,7 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      Computer Graphics Forum (<b>CGF</b>), 2023 
+      Pacific Graphics/Computer Graphics Forum (<b>PG/CGF</b>), 2023 
       <br>
     </font> 
     <font size="2">
