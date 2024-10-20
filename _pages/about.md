@@ -126,7 +126,8 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2108.02548">[paper]</a> / 
+      <a href="https://dl.acm.org/doi/abs/10.1145/3472749.3474791">[paper]</a> /
+      <a href="https://arxiv.org/abs/2108.02548">[arXiv]</a> / 
       <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
       <a href="https://github.com/zhongjinluo/SimpModeling/">[code]</a>
     </font>
