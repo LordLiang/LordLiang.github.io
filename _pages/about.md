@@ -140,7 +140,7 @@ Selected Publications
 Education Experience
 ------
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/cityu.svg">
+<img style="float: left; width: 75px" src="../jzimages/edu/cityu.jpg">
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>City University of Hong Kong</b><br></font> 
@@ -149,6 +149,7 @@ Education Experience
 </p>  
 </div>
 
+<div>
 <img style="float: left; width: 75px" src="../jzimages/edu/cuhksz.png">
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
