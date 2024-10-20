@@ -40,7 +40,7 @@ Selected Publications
   <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
+  <img style="float: left" src="../jzimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -71,7 +71,7 @@ Selected Publications
   <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
+  <img style="float: left" src="../jzimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -104,7 +104,7 @@ Selected Publications
   <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="500px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
+  <img style="float: left" src="../jzimages/border_row2.png" width="20px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -139,25 +139,42 @@ Selected Publications
 
 Education Experience
 ------
-<img style="float: left; width: 15%" src="../zjlimages/edu/BIT.jpeg">
 <div>
-<img style="float: left; width: 75px" src="../zjlimages/edu/THU.jpeg">
-<img style="float: left" src="../zjlimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../jzimages/edu/cityu.svg">
+<img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
-  <font size="2">September 2022 -  <br></font> 
-  <font size="2">Ph.D. in Software Engineering at <a href="https://www.thss.tsinghua.edu.cn/en/">School of Software</a><br></font>
+  <font size="4"><b>City University of Hong Kong</b><br></font> 
+  <font size="2">Nov. 2020 -  <br></font> 
+  <font size="2">Ph.D. student in Creative Media at <a href="https://www.scm.cityu.edu.hk/">School of Creative Media</a><br></font>
+</p>  
+</div>
+
+<img style="float: left; width: 75px" src="../jzimages/edu/cuhksz.png">
+<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>The Chinese University of Hong Kong, Shenzhen</b><br></font> 
+  <font size="2">May. 2022 – Sep. 2022<br></font> 
+  <font size="2">Visiting student at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a><br></font>
 </p>  
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../zjlimages/edu/BIT.jpeg">
-<img style="float: left" src="../zjlimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../jzimages/edu/sjtu.png">
+<img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-  <font size="2">September 2018 - June 2022<br></font> 
-  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
-  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
+  <font size="4"><b>Shanghai Jiao Tong University</b><br></font> 
+  <font size="2">Sep. 2017 – Mar. 2020<br></font> 
+  <font size="2">M.E. in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a><br></font>
+</p>  
+</div>
+
+<div>
+<img style="float: left; width: 75px" src="../jzimages/edu/seu.png">
+<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Southeast University</b><br></font> 
+  <font size="2">Sep. 2013 – Jun. 2017<br></font> 
+  <font size="2">B.E. in Computer Science & Engineering <br></font>
 </p>  
 </div>
 
