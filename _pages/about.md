@@ -37,13 +37,13 @@ News
 Selected Publications
 ------
 <div>
-  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="350px">
+  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="300px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:150%">
+  <p style="line-height:118%">
     <font size="4">
       <b><i>DrawingSpinUp</i>: 3D Animation from Single Character Drawings</b>
       <br>
@@ -68,13 +68,13 @@ Selected Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="350px">
+  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="300px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:150%">
+  <p style="line-height:118%">
     <font size="4">
       <b><i>GA-Sketching</i>: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions</b>
       <br>
@@ -101,13 +101,13 @@ Selected Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="350px">
+  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="300px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:150%">
+  <p style="line-height:118%">
     <font size="4">
       <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
       <br>
