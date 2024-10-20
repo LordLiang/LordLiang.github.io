@@ -113,8 +113,8 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <b>Zhongjin Luo</b>, 
-      Jie Zhou, 
+      Zhongjin Luo, 
+      <b>Jie Zhou</b>, 
       Heming Zhu, 
       Dong Du, 
       Xiaoguang Han,
