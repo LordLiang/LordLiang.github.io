@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongjin Luo"
+title                    : "Jie Zhou"
 title_separator          : "-"
-name                     : &name "Zhongjin Luo"
+name                     : &name "Jie Zhou"
 description              : &description "personal description"
 url                      : https://zhongjinluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhongjinluo/zhongjinluo.github.io"
+repository               : "LordLiang/LordLiang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongjin Luo 罗忠金"
-  avatar           : "../zjlimages/placeholder.png"
+  name             : "Jie Zhou 周婕"
+  avatar           : "../jzimages/exusiai.jpg"
   # bio              : ""
-  bio              : "Ph.D. student @ The Chinese University of Hong Kong (Shenzhen)."
-  location         : "Shenzhen, China"
+  bio              : "Ph.D. student @ The CIty University of Hong Kong."
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : # ""
-  googlescholar    : "https://zhongjinluo.github.io/"
-  email            : "zhongjinluo@link.cuhk.edu.cn"
+  googlescholar    : "https://lordliang.github.io/"
+  email            : "jzhou67-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhongjinluo"
+  github           : "LordLiang"
   google_plus      :
   keybase          :
   instagram        :
