@@ -37,7 +37,7 @@ News
 Selected Publications
 ------
 <div>
-  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="300px">
+  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
@@ -68,7 +68,7 @@ Selected Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="300px">
+  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
@@ -101,7 +101,7 @@ Selected Publications
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="300px">
+  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../jzimages/border_row2.png" width="10px">
