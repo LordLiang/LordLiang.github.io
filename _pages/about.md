@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Creative Media at the City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and Prof. Miuling Lam. 
+I am currently a Ph.D. student in Creative Media at the City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
 Prior to this, I received my Master's degree in Computer Technology from Shanghai Jiao Tong University, under the guidance of <a href="https://dmcv.sjtu.edu.cn/people/">Prof. Lizhuang Ma</a>.
 My research interests lie in Computer Graphics and 3D Computer Vision, with a primary focus on sketch-based 3D modeling and character animation. 
 I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/people">Prof. Xiaoguang Han</a> at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen).
@@ -37,7 +37,7 @@ News
 Publications
 ------
 <div>
-  <img style="float: left" src="../zjlimages/pub/SketchMetaface.png" width="175px">
+  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -45,33 +45,30 @@ Publications
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>SketchMetaFace</i>: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling</b>
+      <b><i>DrawingSpinUp</i>: 3D Animation from Single Character Drawings</b>
       <br>
     </font> 
     <font size="2">
-      <b>Zhongjin Luo</b>, 
-      Dong Du, 
-      Heming Zhu, 
-      <a href="https://i.cs.hku.hk/~yzyu/">Yizhou Yu</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>,
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <b>Jie Zhou</b>, 
+      Miu-Ling Lam, 
+      Hongbo Fu
       <br>
     </font> 
     <font size="2">
-      Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2023
+      <b>SIGGRAPH Asia</b>, 2024
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2307.00804">[paper]</a> /
-      <a href="https://zhongjinluo.github.io/SketchMetaFace/">[project]</a> /
-      <a href="https://github.com/zhongjinluo/SketchMetaFace/">[code]</a>
+      <a href="https://arxiv.org/abs/2409.08615">[arXiv]</a> /
+      <a href="https://lordliang.github.io/DrawingSpinUp/">[project]</a> /
+      <a href="https://github.com/LordLiang/DrawingSpinUp">[code]</a>
     </font>
   </p>
 </div>
 <br>
 
 <div>
-  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
+  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -79,34 +76,32 @@ Publications
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>RaBit</i>: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
+      <b><i>GA-Sketching</i>: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions</b>
       <br>
     </font> 
     <font size="2">
-      <b>Zhongjin Luo*</b>, 
-      Shengcai Cai*, 
-      Jinguo Dong, 
-      Ruibo Ming, 
-      Liangdong Qiu, 
-      <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan</a>,
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a> 
+      <b>Jie Zhou</b>, 
+      Zhongjin Luo, 
+      Qian Yu, 
+      Xiaoguang Han, 
+      Hongbo Fu
       <br>
     </font> 
     <font size="2">
-      IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023 
+      Computer Graphics Forum (<b>CGF</b>), 2023 
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2303.12564">[paper]</a> / 
-      <a href="https://gaplab.cuhk.edu.cn/projects/RaBit/">[project]</a> /
-      <a href="https://github.com/zhongjinluo/RaBit">[code]</a>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14948">[paper]</a> / 
+      <a href="https://arxiv.org/abs/2309.05946">[arXiv]</a> /
+      <a href="https://github.com/LordLiang/GA-Sketching">[code]</a>
     </font>
   </p>
 </div>
 <br>
 
 <div>
-  <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
+  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="400px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -122,8 +117,8 @@ Publications
       Jie Zhou, 
       Heming Zhu, 
       Dong Du, 
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>
+      Xiaoguang Han,
+      Hongbo Fu
       <br>
     </font> 
     <font size="2">
@@ -135,105 +130,6 @@ Publications
       <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
       <a href="https://github.com/zhongjinluo/SimpModeling/">[code]</a>
     </font>
-  </p>
-</div>
-
-<!-- 
-<div>
-  <img style="float: left" src="../zjlimages/pub/ijcai21-IALS.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
-      <a href="https://ying-fu.github.io/">Ying Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">[paper]</a> / 
-      <a href="https://github.com/yxuhan/IALS">[code]</a>
-    </font>
-  </p>
-</div> -->
-
-<!-- ############## -->
-<!-- preprints -->
-<!-- ############## -->
-
-Preprints
-------
-<div>
-  <img style="float: left" src="../zjlimages/pub/CBCT.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:118%">
-    <font size="4">
-      <b>Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction</b>
-      <br>
-    </font> 
-    <font size="2">
-      Yiqun Lin,
-      <b>Zhongjin Luo</b>, 
-      Wei Zhao,
-      Xiaomeng Li
-      <br>
-    </font> 
-    <font size="2">
-      International Conference on Medical Image Computing&Computer Assisted Intervention (<b>MICCAI</b>), 2023
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2303.06681">[paper]</a> /
-      <a href="https://github.com/xmed-lab/DIF-Net/">[code]</a>
-    </font>
-  </p>
-</div>
-<br>
-
-<div>
-  <img style="float: left" src="../zjlimages/pub/GA-Sketching.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:118%">
-    <font size="4">
-      <b>GA-Sketching: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions</b>
-      <br>
-    </font> 
-    <font size="2">
-      Jie Zhou,
-      <b>Zhongjin Luo</b>, 
-      <a href="https://yuqian1023.github.io/">Yu Qian</a>,
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      Arxiv 2023 (Pre-Print Coming soon...)
-      <br>
-    </font> 
-    <!-- <font size="2">
-      [paper] /
-      [project] /
-      [code]
-    </font> -->
   </p>
 </div>
 
@@ -271,4 +167,4 @@ Preprints
 <!-- ############## -->
 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script>
