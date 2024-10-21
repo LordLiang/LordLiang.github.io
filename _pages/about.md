@@ -56,7 +56,7 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      <b>ACM SIGGRAPH Asia Conference</b>, 2024
+      ACM SIGGRAPH Asia Conference, 2024
       <br>
     </font> 
     <font size="2">
@@ -89,7 +89,7 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      Pacific Graphics/Computer Graphics Forum (<b>PG/CGF</b>), 2023 
+      Pacific Graphics/Computer Graphics Forum (PG/CGF), 2023 
       <br>
     </font> 
     <font size="2">
@@ -123,7 +123,7 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021
+      ACM Symposium on User Interface Software and Technology (UIST), 2021
       <br>
     </font> 
     <font size="2">
