@@ -50,6 +50,7 @@ Selected Publications
     </font> 
     <font size="2">
       <b>Jie Zhou</b>, 
+      Chufeng Xiao,
       Miu-Ling Lam, 
       Hongbo Fu
       <br>
