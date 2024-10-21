@@ -28,7 +28,7 @@ Interests
 
 News
 ------
-* [2024.07] One paper got accepted by SIGGRAPH Asia 2024.
+* [2024.07] One paper got accepted by ACM SIGGRAPH Asia Conference 2024.
 
 <!-- ############## -->
 <!-- publications -->
@@ -56,7 +56,7 @@ Selected Publications
       <br>
     </font> 
     <font size="2">
-      <b>SIGGRAPH Asia</b>, 2024
+      <b>ACM SIGGRAPH Asia Conference</b>, 2024
       <br>
     </font> 
     <font size="2">
