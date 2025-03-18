@@ -20,7 +20,8 @@ I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/p
 Interests
 ------
 * Sketch-based 3D Modeling
-* Character Animation
+* 3D Character Animation
+* controllable AIGC
 
 <!-- ############## -->
 <!-- news -->
