@@ -26,9 +26,9 @@ Interests
 <!-- news -->
 <!-- ############## -->
 
-News
-------
-* [2024.07] One paper got accepted by ACM SIGGRAPH Asia Conference 2024.
+<!-- News -->
+<!-- ------ -->
+<!-- * [2024.07] One paper got accepted by ACM SIGGRAPH Asia Conference 2024. -->
 
 <!-- ############## -->
 <!-- publications -->
