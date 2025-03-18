@@ -148,7 +148,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>City University of Hong Kong</b><br></font> 
   <font size="2">Nov. 2020 - Present<br></font> 
-  <font size="2">Ph.D. student in Creative Media at <a href="https://hongbofu.people.ust.hk/">Hongbo's Group</a>.<br></font>
+  <font size="2">Ph.D. student in Creative Media at <a href="https://hongbofu.people.ust.hk/">Hongbo's Group</a><br></font>
 </p>  
 </div>
 
@@ -158,7 +158,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>Shanghai Jiao Tong University</b><br></font> 
   <font size="2">Sep. 2017 – Mar. 2020<br></font> 
-  <font size="2">Master's Degree in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a>.<br></font>
+  <font size="2">Master's Degree in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a><br></font>
 </p>  
 </div>
 
@@ -168,7 +168,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>Southeast University</b><br></font> 
   <font size="2">Sep. 2013 – Jun. 2017<br></font> 
-  <font size="2">Bachelor's Degree in Computer Science and Engineering. <br></font>
+  <font size="2">Bachelor's Degree in Computer Science and Engineering <br></font>
 </p>  
 </div>
 
@@ -180,7 +180,7 @@ Professional Experience
 <p style="line-height:125%">
   <font size="4"><b>The City University of Hong Kong</b><br></font> 
   <font size="2">Nov. 2024 – Present<br></font> 
-  <font size="2">Research Assistant at School of Creative Media. <br></font>
+  <font size="2">Research Assistant at School of Creative Media <br></font>
 </p>  
 </div>
 
@@ -190,7 +190,7 @@ Professional Experience
 <p style="line-height:125%">
   <font size="4"><b>The Chinese University of Hong Kong, Shenzhen</b><br></font> 
   <font size="2">May. 2022 – Sep. 2022<br></font> 
-  <font size="2">Visiting Ph.D. Student at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>.<br></font>
+  <font size="2">Visiting Ph.D. Student at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab.</a><br></font>
 </p>  
 </div>
 
@@ -198,7 +198,7 @@ Professional Experience
 <img style="float: left; width: 75px" src="../jzimages/exp/youtu.jpg">
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Tencent Inc. Shanghai<b><br></font> 
+  <font size="4"><b>Tencent Inc., Shanghai<b><br></font> 
   <font size="2">Jul. 2019 – Mar. 2020<br></font> 
   <font size="2">Research Intern. at Tencent YouTu Lab. <br></font>
 </p>  
