@@ -194,12 +194,12 @@ Professional Experience
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../jzimages/exp/tencent.png">
+<img style="float: left; width: 75px" src="../jzimages/exp/youtu.jpg">
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4">Tencent Inc. Shanghai</b><br></font> 
   <font size="2">Jul. 2019 – Mar. 2020<br></font> 
-  <font size="2">Research Intern.<br></font>
+  <font size="2">Research Intern. at Tencent YouTu Lab. <br></font>
 </p>  
 </div>
 
