@@ -147,7 +147,7 @@ Education
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>City University of Hong Kong</b><br></font> 
-  <font size="2">Nov. 2020 - Present<br></font> 
+  <font size="2">Nov. 2020 – Present<br></font> 
   <font size="2">Ph.D. student in Creative Media at <a href="https://hongbofu.people.ust.hk/">Hongbo's Group</a><br></font>
 </p>  
 </div>
