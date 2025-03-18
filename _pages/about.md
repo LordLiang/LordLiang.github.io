@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. student in Creative Media at City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
 Prior to this, I received my Master's degree in Computer Technology from Shanghai Jiao Tong University, under the guidance of <a href="https://dmcv.sjtu.edu.cn/people/">Prof. Lizhuang Ma</a>.
-My research interests lie in Computer Graphics and 3D Computer Vision, with a primary focus on sketch-based 3D modeling and 3D character animation. 
+My research interests lie in Computer Graphics and 3D Computer Vision, with a primary focus on sketch-based 3D modeling, 3D character animation and controllable AIGC. 
 I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/people">Prof. Xiaoguang Han</a>.
 
 <!-- ############## -->
