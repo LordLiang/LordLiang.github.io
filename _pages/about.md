@@ -206,8 +206,14 @@ Professional Experience
 
 Service
 ------
-* I serve as a paper reviewer for CGI 2025.
-* I serve as a paper reviewer for SIGGRAPH 2025.
+* **Paper Reviewer:**
+  
+  CGI 2025, SIGGRAPH 2025, SIGGRAPH Asia 2025, PG 2025
+  
+* **Student Helper:**
+  
+  CVM 2025
+
 
 <!-- ############## -->
 <!-- visit map -->
