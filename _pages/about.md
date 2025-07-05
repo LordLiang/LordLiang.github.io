@@ -179,7 +179,7 @@ Professional Experience
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>The City University of Hong Kong</b><br></font> 
-  <font size="2">Nov. 2024 – Present<br></font> 
+  <font size="2">Nov. 2024 – Jun. 2025<br></font> 
   <font size="2">Research Assistant at School of Creative Media <br></font>
 </p>  
 </div>
@@ -210,9 +210,20 @@ Service
   
   CGI 2025, SIGGRAPH 2025, SIGGRAPH Asia 2025, PG 2025
   
-* **Student Helper:**
+* **Conference Volunteer:**
   
   CVM 2025
+
+Selected Honors & Awards
+------
+* [2024.08] Outstanding Academic Performance Award of CityUHK
+* [2022.08] Outstanding Academic Performance Award of CityUHK
+* [2017.12] Third Prize of China Graduate Mathematical Contest in Modeling (Huawei Cup)
+* [2016.10] CCF Elite Collegiate Award (123 recipients in China)
+* [2015.12] First Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
+* [2015.11] China National Scholarship (top 0.2%)
+* [2014.12] Excellent Student of the School of Computer Science and Engineering of SEU
+
 
 
 <!-- ############## -->
