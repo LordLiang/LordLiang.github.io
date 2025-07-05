@@ -216,14 +216,14 @@ Service
 
 Selected Honors & Awards
 ------
-* [2024] Outstanding Academic Performance Award of CityUHK
-* [2022] Outstanding Academic Performance Award of CityUHK
+* [2024] Outstanding Academic Performance Award of City University of Hong Kong
+* [2022] Outstanding Academic Performance Award of City University of Hong Kong
 * [2017] National Third Prize in the 14th China Graduate Mathematical Contest in Modeling (Huawei Cup)
 * [2016] CCF Elite Collegiate Award (123 recipients in China)
 * [2015] National First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 * [2015] China National Scholarship (Top 0.2%)
-* [2015] Merit Student of SEU
-* [2014] Excellent Student of the School of Computer Science and Engineering, SEU
+* [2015] Merit Student of Southeast University
+* [2014] Excellent Student of the School of Computer Science and Engineering, Southeast University
 
 
 
