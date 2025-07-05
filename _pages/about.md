@@ -158,7 +158,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>Shanghai Jiao Tong University</b><br></font> 
   <font size="2">Sep. 2017 – Mar. 2020<br></font> 
-  <font size="2">Master's Degree in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a><br></font>
+  <font size="2">Master in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a><br></font>
 </p>  
 </div>
 
@@ -168,7 +168,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>Southeast University</b><br></font> 
   <font size="2">Sep. 2013 – Jun. 2017<br></font> 
-  <font size="2">Bachelor's Degree in Computer Science and Engineering <br></font>
+  <font size="2">Bachelor in Computer Science & Technology <br></font>
 </p>  
 </div>
 
