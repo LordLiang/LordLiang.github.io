@@ -222,7 +222,8 @@ Selected Honors & Awards
 * [2016.10] CCF Elite Collegiate Award (123 recipients in China)
 * [2015.12] First Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
 * [2015.11] China National Scholarship (top 0.2%)
-* [2014.12] Excellent Student of the School of Computer Science and Engineering of SEU
+* [2015.11] Merit Student of SEU
+* [2014.12] Excellent Student of the School of Computer Science and Engineering, SEU
 
 
 
