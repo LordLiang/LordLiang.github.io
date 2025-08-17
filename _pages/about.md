@@ -179,6 +179,16 @@ Professional Experience
 <img style="float: left" src="../jzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>The City University of Hong Kong</b><br></font> 
+  <font size="2">Jul. 2025 – Now<br></font> 
+  <font size="2">Research Assistant at Department of Computer Science <br></font>
+</p>  
+</div>
+
+<div>
+<img style="float: left; width: 75px" src="../jzimages/edu/cityu.jpg">
+<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>The City University of Hong Kong</b><br></font> 
   <font size="2">Nov. 2024 – Jun. 2025<br></font> 
   <font size="2">Research Assistant at School of Creative Media <br></font>
 </p>  
@@ -208,11 +218,11 @@ Service
 ------
 * **Paper Reviewer:**
   
-  CGI 2025, SIGGRAPH 2025, SIGGRAPH Asia 2025, PG 2025
+  CGI 2025, SIGGRAPH 2025, SIGGRAPH Asia 2025, PG 2025, TIP 2025
   
 * **Conference Volunteer:**
   
-  CVM 2025
+  CVM 2025, CVM 2018
 
 Selected Honors & Awards
 ------
