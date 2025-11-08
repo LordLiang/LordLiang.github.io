@@ -38,6 +38,38 @@ Interests
 Selected Publications
 ------
 <div>
+  <img style="float: left" src="../jzimages/pub/From-Rigging-to-Waving.png" width="300px">
+</div>
+<div>
+  <img style="float: left" src="../jzimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b><i>From Rigging to Waving</i>: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Jie Zhou*</b>, 
+      Linzi Qu*,
+      Miu-Ling Lam, 
+      Hongbo Fu
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (TOG), 2025
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2509.06573">[arXiv]</a> /
+      <a href="https://lordliang.github.io/From-Rigging-to-Waving/">[project]</a> /
+      <a href="https://github.com/LordLiang/From-Rigging-to-Waving">[code]</a>
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="300px">
 </div>
 <div>
